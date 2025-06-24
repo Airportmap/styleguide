@@ -21,3 +21,9 @@ The logo uses a smooth and fresh color gradient in various shades of green and c
 The very simple wordmark follows the design rules of the logo and uses the same colors in the same gradient.
 
 The wordmark uses REM as its font—the main font of the project and used by the website—and depicts the name of the project. It is available in various sizes in PNG format and as an SVG version also.
+
+## Schema
+
+![Light theme](./schema/light.png)
+
+![Dark theme](./schema/dark.png)
