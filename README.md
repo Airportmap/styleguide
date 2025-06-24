@@ -6,7 +6,7 @@ You are welcome to use these logos and the word mark to refer to Airportmap or i
 
 ## Logo
 
-![Official logo](logo\logo_128x128.png)
+![Official logo](./logo/logo_128x128.png)
 
 The Airportmap logo features a simple and modern design that aims to visually reflect the themes of aviation and navigation.
 
