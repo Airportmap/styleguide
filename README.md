@@ -1,29 +1,35 @@
 # Airportmap Style Guide
 
-This is the official style guide for the Airportmap project. It contains the official and original logos, wordmark and color schemes used by the Airportmap website and related services and products.
+This repository provides the official style guide for the Airportmap project. It contains the original logo, wordmark, and color specifications used across the Airportmap website and associated services or applications.
 
-You are welcome to use these logos and the word mark to refer to Airportmap or its services—they are free to use as long as you make reference to Airportmap and its developer [@komed3](https://github.com/komed3).
+These assets may be used freely for referencing or describing Airportmap, provided the usage is clearly associated with the project and the developer [@komed3](https://github.com/komed3). Any use must remain contextually relevant to Airportmap and its ecosystem.
 
 ## Logo
 
-![Official logo](./logo/logo_128x128.png)
+![Official logo](./logo/logo_256x256.png)
 
-The Airportmap logo features a simple and modern design that aims to visually reflect the themes of aviation and navigation.
+The Airportmap logo is based on a minimal and geometric design language, reflecting the project’s focus on aviation, cartography, and digital infrastructure.
 
-The focal point is a stylized “A” framed by a circular gradient in shades of green. This symbol is emblematic of the name “A”irportmap and at the same time attempts to imitate the shape of an airplane.
+Its core element is a stylized “A”, framed by a circular gradient spanning from teal to turquoise. This symbol subtly references both the first letter of the project name and the silhouette of an aircraft or navigation arrow.
 
-The logo uses a smooth and fresh color gradient in various shades of green and cyan. For use as an icon, in small sizes or as an additional favicon, a simplified SVG version is provided, which completely avoids colors and consists of a single path. The logo itself is available in standard sizes in PNG format, as a high-res version and as an SVG as well.
+The logo is available in multiple formats (PNG, SVG), including a reduced monochrome variant for small-scale use or integration as an icon or favicon.
 
 ## Wordmark
 
 ![Official wordmark](./wordmark/wordmark_512x55.png)
 
-The very simple wordmark follows the design rules of the logo and uses the same colors in the same gradient.
+The wordmark complements the logo both in shape and color, using the same gradient from green to cyan.
 
-The wordmark uses REM as its font—the main font of the project and used by the website—and depicts the name of the project. It is available in various sizes in PNG format and as an SVG version also.
+Set in the REM typeface—also used throughout the Airportmap website—it consists of the project name in uppercase letters. Variants are available in scalable formats (PNG and SVG) for use in headers, footers, or printed documentation.
 
-## Schema
+## Color Scheme
 
 ![Light theme](./schema/light.png)
 
 ![Dark theme](./schema/dark.png)
+
+Two main color schemes are provided for light and dark themes, derived directly from the logo’s base colors. These include primary accent tones as well as grayscale levels for background surfaces, UI elements, and typography.
+
+---
+
+**© MIT License – 2025 Paul Köhler ([@komed3](https://github.com/komed3))**
